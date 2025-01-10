@@ -60,6 +60,12 @@ eval $(ssh-agent -s)  # start ssh agent in background
 ssh-add private.key   # add SSH private key to bash
 ```
 
+Trigger the GPG agent and reauthenticate
+
+```bash
+echo "test" | gpg --clearsign
+```
+
 ## PDF
 
 Count the words of a PDF file:
