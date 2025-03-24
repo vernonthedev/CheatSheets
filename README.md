@@ -11,7 +11,7 @@ Repository for everything I look up more than twice.
 - [VS Code](./sheets/vscode.md)
 - [Yarn](./sheets/yarn.md)
 
-## External Cheat Sheets
+##Cheat Sheets
 
 In addition to my own above, I compiled a list of the (in my opinion) best Cheatsheets and tutorials for some of the top
 languages, frameworks and tools out there. I considered clarity, interactivity and simplicity for beginners. Here we go.
